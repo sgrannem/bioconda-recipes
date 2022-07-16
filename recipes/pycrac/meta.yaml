@@ -33,7 +33,7 @@ test:
     - pyCRAC.Parsers
 
 about:
-  home: "http://sandergranneman.bio.ed.ac.uk/Granneman_Lab/pyCRAC_software.html"
+  home: "https://sandergranneman.bio.ed.ac.uk/pycrac-software"
   license: Apache-2.0
   license_family: Apache
   summary: "Python NextGen sequencing data processing software"
